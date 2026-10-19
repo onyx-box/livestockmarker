@@ -1,0 +1,31 @@
+
+[
+  {
+    "file": "game:entities/animal/mammal/hare-baby.json",
+    "op": "add",
+    "path": "/client/behaviors/-",
+    "value": { "code": "livestockmarker" },
+    "side": "Server"
+  },
+  {
+    "file": "game:entities/animal/mammal/hare-adult.json",
+    "op": "add",
+    "path": "/client/behaviors/-",
+    "value": { "code": "livestockmarker" },
+    "side": "Server"
+  },
+  {
+    "file": "game:entities/animal/mammal/hooved/goat-baby.json",
+    "op": "add",
+    "path": "/client/behaviors/-",
+    "value": { "code": "livestockmarker" },
+    "side": "Server"
+  },
+  {
+    "file": "game:entities/animal/mammal/hooved/goat-adult.json",
+    "op": "add",
+    "path": "/client/behaviors/-",
+    "value": { "code": "livestockmarker" },
+    "side": "Server"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "mod-name": "Livestock Marker",
+  "mark-color": "Oznaczenie: {0}",
+  "color-red": "Czerwony",
+  "color-blue": "Niebieski",
+  "color-green": "Zielony",
+  "color-yellow": "Żółty",
+  "color-white": "Biały",
+  "color-black": "Czarny",
+  "mark-none": "Brak oznaczenia",
+  "mark-success": "Oznaczono zwierzę: {0}",
+  "mark-cleared": "Usunięto oznaczenie zwierzęcia",
+  "error-no-animal": "Najpierw wskaż zwierzę.",
+  "error-unknown-color": "Nieznany kolor: {0}"
+}

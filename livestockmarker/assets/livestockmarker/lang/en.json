@@ -1,0 +1,15 @@
+{
+  "mod-name": "Livestock Marker",
+  "mark-color": "Marking: {0}",
+  "color-red": "Red",
+  "color-blue": "Blue",
+  "color-green": "Green",
+  "color-yellow": "Yellow",
+  "color-white": "White",
+  "color-black": "Black",
+  "mark-none": "Unmarked",
+  "mark-success": "Animal marked: {0}",
+  "mark-cleared": "Animal marking removed",
+  "error-no-animal": "Look at an animal first.",
+  "error-unknown-color": "Unknown color: {0}"
+}
